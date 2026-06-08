@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="EisaX ecosystem diagram">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34D6C8"/><stop offset="1" stop-color="#18C2B4"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="420" rx="18" fill="#0B1420"/>
+  <text x="300" y="44" fill="#9EFFF7" font-family="Inter,sans-serif" font-size="13" font-weight="800" letter-spacing="2" text-anchor="middle">EISAX PLATFORM</text>
+  <g font-family="Inter,sans-serif" text-anchor="middle">
+    <rect x="180" y="64" width="240" height="56" rx="12" fill="url(#g1)"/>
+    <text x="300" y="98" fill="#06101A" font-size="17" font-weight="700">WealthGate AI</text>
+    <rect x="60" y="150" width="150" height="56" rx="12" fill="rgba(255,255,255,.06)" stroke="rgba(52,214,200,.4)"/>
+    <text x="135" y="184" fill="#EAF1F7" font-size="14" font-weight="600">Intelligence</text>
+    <rect x="225" y="150" width="150" height="56" rx="12" fill="rgba(255,255,255,.06)" stroke="rgba(52,214,200,.4)"/>
+    <text x="300" y="184" fill="#EAF1F7" font-size="14" font-weight="600">Agent</text>
+    <rect x="390" y="150" width="150" height="56" rx="12" fill="rgba(255,255,255,.06)" stroke="rgba(52,214,200,.4)"/>
+    <text x="465" y="184" fill="#EAF1F7" font-size="14" font-weight="600">Planner</text>
+    <rect x="140" y="236" width="150" height="56" rx="12" fill="rgba(255,255,255,.06)" stroke="rgba(122,167,255,.4)"/>
+    <text x="215" y="270" fill="#EAF1F7" font-size="14" font-weight="600">Lab</text>
+    <rect x="310" y="236" width="150" height="56" rx="12" fill="rgba(255,255,255,.06)" stroke="rgba(122,167,255,.4)"/>
+    <text x="385" y="270" fill="#EAF1F7" font-size="14" font-weight="600">Governance</text>
+    <rect x="120" y="322" width="360" height="56" rx="12" fill="rgba(52,214,200,.10)" stroke="rgba(52,214,200,.3)"/>
+    <text x="300" y="356" fill="#9EFFF7" font-size="13" font-weight="700">GCC / MENA operators</text>
+  </g>
+</svg>

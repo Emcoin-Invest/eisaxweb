@@ -1,0 +1,4 @@
+Contact: mailto:partnerships@eisax.com
+Preferred-Languages: en, ar
+Canonical: https://eisax.com/.well-known/security.txt
+Policy: https://eisax.com/security.html

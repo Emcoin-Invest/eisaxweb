@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-label="WealthGate AI workflow">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34D6C8"/><stop offset="1" stop-color="#18C2B4"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" rx="18" fill="#0B1420"/>
+  <text x="300" y="42" fill="#9EFFF7" font-family="Inter,sans-serif" font-size="13" font-weight="800" letter-spacing="2" text-anchor="middle">WEALTHGATE AI WORKFLOW</text>
+  <g font-family="Inter,sans-serif" text-anchor="middle">
+    <rect x="40" y="80" width="150" height="64" rx="12" fill="rgba(255,255,255,.06)" stroke="rgba(52,214,200,.4)"/>
+    <text x="115" y="110" fill="#EAF1F7" font-size="14" font-weight="700">Client portal</text>
+    <text x="115" y="130" fill="#8FA0B8" font-size="11">Dashboards · reports</text>
+    <rect x="225" y="80" width="150" height="64" rx="12" fill="rgba(255,255,255,.06)" stroke="rgba(52,214,200,.4)"/>
+    <text x="300" y="110" fill="#EAF1F7" font-size="14" font-weight="700">Approvals</text>
+    <text x="300" y="130" fill="#8FA0B8" font-size="11">Maker-checker</text>
+    <rect x="410" y="80" width="150" height="64" rx="12" fill="rgba(255,255,255,.06)" stroke="rgba(52,214,200,.4)"/>
+    <text x="485" y="110" fill="#EAF1F7" font-size="14" font-weight="700">Audit logs</text>
+    <text x="485" y="130" fill="#8FA0B8" font-size="11">Governance</text>
+    <path d="M190 112 H225 M375 112 H410" stroke="#34D6C8" stroke-width="2" fill="none"/>
+    <rect x="150" y="210" width="300" height="64" rx="12" fill="url(#g2)"/>
+    <text x="300" y="240" fill="#06101A" font-size="15" font-weight="700">Deployed under your brand</text>
+    <text x="300" y="260" fill="#06101A" font-size="11" opacity=".8">Your domain · users · operating model</text>
+    <path d="M115 144 V190 H300 V210 M300 144 V210 M485 144 V190 H300" stroke="#7AA7FF" stroke-width="1.5" fill="none" opacity=".5"/>
+  </g>
+</svg>

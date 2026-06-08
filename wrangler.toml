@@ -1,0 +1,17 @@
+name = "eisax"
+pages_build_output_dir = "."
+
+[[kv_namespaces]]
+binding = "LEADS_KV"
+id = "8cae20d273e8401ba8227e3eb588ad8f"
+preview_id = "8cae20d273e8401ba8227e3eb588ad8f"
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT_KV"
+id = "255b41f2e6854113a2c4ee1215964934"
+preview_id = "255b41f2e6854113a2c4ee1215964934"
+
+[[kv_namespaces]]
+binding = "ANALYTICS_KV"
+id = "bd46cf44b0fe428f958fcefecfe4efe2"
+preview_id = "bd46cf44b0fe428f958fcefecfe4efe2"
